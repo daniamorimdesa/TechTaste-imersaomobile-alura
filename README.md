@@ -1,6 +1,6 @@
 # 🍽️ TechTaste – Food Delivery App com Flutter
 
-TechTaste é um aplicativo de delivery desenvolvido com Flutter durante a **Imersão Mobile da Alura (2024)**. A proposta é criar uma experiência completa de navegação entre restaurantes, escolha de pratos e checkout de pedidos, com design inspirado em um projeto no Figma.
+TechTaste é um aplicativo de delivery desenvolvido com Flutter durante a **Imersão Mobile da Alura (abril - 2025)**. A proposta é criar uma experiência completa de navegação entre restaurantes, escolha de pratos e checkout de pedidos, com design inspirado em um projeto no Figma.
 
 Este repositório inclui o que foi desenvolvido nas aulas e servirá como base para continuar expandindo o projeto com novas funcionalidades e melhorias.
 
